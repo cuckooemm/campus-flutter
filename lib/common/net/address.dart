@@ -1,11 +1,7 @@
 
 ///地址数据
 class Address {
-  static const String host = "https://www.campuswall.cn/api/";
-//  static const String hostWeb = "https://github.com/";
-//  static const String downloadUrl = 'https://www.pgyer.com/GSYGithubApp';
-//  static const String graphicHost = 'https://ghchart.rshah.org/';
-//  static const String updateUrl = 'https://www.pgyer.com/vj2B';
+  static const String host = "https://www.xxx.xx/api/";
   /// 发送验证码 put
   static getCodeUrl(){
     return "${host}v1/auth/code";
