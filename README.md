@@ -2,8 +2,8 @@
 
 flutter 编写的校园墙APP
 
-demo download https://github.com/ming0101/campus-flutter/blob/master/app-release.apk
+demo download https://github.com/cuckooemm/campus-flutter/blob/master/app-release.apk
 
-后端代码链接 https://github.com/ming0101/campus-go
+后端代码链接 https://github.com/cuckooemm/campus-go
 
-小程序版链接 https://github.com/ming0101/campus-weapp
+小程序版链接 https://github.com/cuckooemm/campus-weapp
